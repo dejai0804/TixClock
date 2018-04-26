@@ -12,4 +12,4 @@ I use this as my screensaver for my Macs. Check [my blog post](http://www.savjee
 Download it [here](http://www.savjee.be/uploads/tixclock/Tix.saver.zip)!
 
 # License
-See LICENSE.
+See LICENSE. ok
